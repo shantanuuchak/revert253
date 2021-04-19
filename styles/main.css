@@ -2461,6 +2461,7 @@ h2.title:after {
   background-color: transparent;
   color: #fff;
   border: 2px solid #fff !important;
+  border-radius: 25px;
   border: none;
   font-style: normal;
   width: auto;
