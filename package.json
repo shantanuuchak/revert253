@@ -1,0 +1,27 @@
+{
+  "name": "revert253",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shantanuuchak/revert253.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shantanuuchak/revert253/issues"
+  },
+  "homepage": "https://github.com/shantanuuchak/revert253#readme",
+  "dependencies": {
+    "compress-images": "^1.9.9"
+  },
+  "devDependencies": {
+    "gifsicle": "^5.2.0",
+    "pngquant-bin": "^6.0.0"
+  }
+}
