@@ -2659,6 +2659,7 @@ h2.title:after {
   background-position: center center;
   width: 100%;
   height: 200px;
+  border-radius: 18px;
 }
 
 @media (min-width: 768px) {
@@ -3422,6 +3423,14 @@ p.date {
 .contact .phone a,
 .contact .email a {
   color: white;
+}
+
+.color-white {
+  color: white;
+}
+
+.color-white > span {
+  background-color: #ce1212;
 }
 
 .contact .phone a:hover,
@@ -4983,4 +4992,8 @@ img {
 ::selection {
   color: #ffeeff;
   background: #ce1212;
+}
+
+a {
+  color: #ca4242;
 }
