@@ -4986,12 +4986,12 @@ img {
 ::-moz-selection {
   /* Code for Firefox */
   color: #ffeeff;
-  background: #ce1212;
+  background: #FF073B;
 }
 
 ::selection {
   color: #ffeeff;
-  background: #ce1212;
+  background: #FF073B;
 }
 
 a {
